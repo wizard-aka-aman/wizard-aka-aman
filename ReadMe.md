@@ -30,10 +30,10 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-90eebf?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-90eebf?style=for-the-badge&logoColor=black" alt="Express.js"/>
-<img src="https://img.shields.io/badge/React.js-90eebf?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-<img src="https://img.shields.io/badge/MongoDB-90eebf?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/JavaScript-90eebf?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Angular.js-90eebf?style=for-the-badge&logoColor=black" alt="Express.js"/>
+<img src="https://img.shields.io/badge/ASP.NET-90eebf?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+<img src="https://img.shields.io/badge/SQL Server-90eebf?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/JavaScript-TypeScript-90eebf?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-90eebf?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-90eebf?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Git-90eebf?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
@@ -101,7 +101,7 @@
 ### 💌 <span style="color:#90eebf;">Let's Connect!</span>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/Aman-Verma-1058791b1/" target="_blank">
+<a href="https://linkedin.com/in/aman-shyam-verma" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-90eebf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="mailto:verma.aman99280@gmail.com">
