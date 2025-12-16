@@ -3,7 +3,7 @@
 <h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
 <a href="https://readme-typing-svg.demolab.com">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishnu+Parihar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+To+My+GitHub+World!%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Verma+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+To+My+GitHub+World!%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </h1>
@@ -101,7 +101,7 @@
 ### 💌 <span style="color:#90eebf;">Let's Connect!</span>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/vishnu-parihar-1058791b1/" target="_blank">
+<a href="https://www.linkedin.com/in/Aman-Verma-1058791b1/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-90eebf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="mailto:verma.aman99280@gmail.com">
@@ -121,7 +121,7 @@
 
 <div align="center">
   <a href="#top">
-    <img src="https://img.shields.io/badge/©️%202024%20Vishnu%20Parihar-All%20Rights%20Reserved-90eebf?style=for-the-badge&logoColor=black" alt="©️ 2024 Vishnu Parihar" />
+    <img src="https://img.shields.io/badge/©️%202024%20Aman%20Verma-All%20Rights%20Reserved-90eebf?style=for-the-badge&logoColor=black" alt="©️ 2024 Aman Verma" />
   </a>
 </div>
 
