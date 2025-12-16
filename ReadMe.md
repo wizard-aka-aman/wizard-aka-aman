@@ -1,27 +1,128 @@
-# 💫 About Me:
- I'm currently working on:  .Net Development & improving my web development skills.<br><br>🤝 I'm looking to collaborate on: Open-source projects related to web development and Java-based applications.<br><br>❓ I'm looking for help with: Enhancing my skills in system design, performance optimization, .Net development, angular and advanced Java concepts.<br><br>📚 I'm currently learning: Angular, .Net Core MVC, and backend optimizations using Server SQL.<br><br>💬 Ask me about: Web development, Java, MERN stack projects and C#.<br><br>🎲 Fun fact: I built a BINGO game in C# that lets you play against the computer!
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 
+<h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
+<a href="https://readme-typing-svg.demolab.com">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wizard_aka_aman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-shyam-verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:verma.aman99280@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishnu+Parihar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+To+My+GitHub+World!%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wizard-aka-aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wizard-aka-aman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-aka-aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wizard-aka-aman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center" style="color:#90eebf;">👨‍💻 Angular & ASP.NET Developer | 🌏 India </h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wizard-aka-aman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center" style="color:#90eebf;">
 
----
-[![](https://visitcount.itsvg.in/api?id=wizard-aka-aman&icon=0&color=0)](https://visitcount.itsvg.in)
+💻 I’m currently learning <strong>Angular & ASP.NET Developer</strong><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+✨ Exploring <strong>creative web development projects</strong><br>
+
+📫 Reach me at: <strong>verma.aman99280@gmail.com</strong>
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Fun Animation GIF" width="400" />
+</p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-90eebf?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-90eebf?style=for-the-badge&logoColor=black" alt="Express.js"/>
+<img src="https://img.shields.io/badge/React.js-90eebf?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+<img src="https://img.shields.io/badge/MongoDB-90eebf?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/JavaScript-90eebf?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-90eebf?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-90eebf?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Git-90eebf?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wizard-aka-aman&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wizard-aka-aman&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
+
+<img src="https://streak-stats.demolab.com/?user=wizard-aka-aman&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 🌈 <span style="color:#90eebf;">Fun Facts About Me:</span>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/109351602/228727713-bbfa3b0b-3cd9-4900-9498-32ef691ebf66.gif" width="100"/>
+</div>
+
+<div style="color:#90eebf;">
+
+✨ I enjoy solving <strong>challenging coding problems</strong> and building innovative projects<br>
+
+💖 Merging <strong>design and functionality</strong> is my passion<br>
+
+🎨 Always striving to improve and learn new <strong>technologies and frameworks</strong>
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/wizard-aka-aman/wizard-aka-aman/blob/main/assets/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 📈 <span style="color:#90eebf;">Repository Activity Graph:</span>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizard-aka-aman&theme=dracula&bg_color=0d1117&color=90eebf&line=90eebf&point=90eebf&hide_border=true" alt="GitHub Repository Activity Graph"/>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 💌 <span style="color:#90eebf;">Let's Connect!</span>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/vishnu-parihar-1058791b1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-90eebf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>
+<a href="mailto:verma.aman99280@gmail.com">
+<img src="https://img.shields.io/badge/Email-90eebf?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+</a>
+<a href="https://github.com/wizard-aka-aman" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-90eebf?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>
+<a href="https://discord.com/users/wizard-aka-aman" target="_blank">
+<img src="https://img.shields.io/badge/Discord-90eebf?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
+</a>
+</div>
+<br>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/©️%202024%20Vishnu%20Parihar-All%20Rights%20Reserved-90eebf?style=for-the-badge&logoColor=black" alt="©️ 2024 Vishnu Parihar" />
+  </a>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
